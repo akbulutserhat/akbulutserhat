@@ -1,4 +1,4 @@
-## Hello 👋 <img align="center" src="https://komarev.com/ghpvc/?username=akbulutserhat&color=51c2d5">
+## Hello 👋 <img align="right" src="https://komarev.com/ghpvc/?username=akbulutserhat&color=51c2d5">
 My name is Serhat Akbulut. I am Computer Engineering student from Turkey.
 
 ### 🛠 &nbsp;Tech Stack
