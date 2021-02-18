@@ -1,4 +1,4 @@
-## Hello 👋 <img align="right" src="https://komarev.com/ghpvc/?username=akbulutserhat&color=51c2d5">
+## Hello 👋
 My name is Serhat Akbulut. I am Computer Engineering student from Turkey.
 
 ### 🛠 &nbsp;Tech Stack
@@ -15,6 +15,7 @@ My name is Serhat Akbulut. I am Computer Engineering student from Turkey.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+<img align="left" src="https://komarev.com/ghpvc/?username=akbulutserhat&color=51c2d5">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbulutserhat&layout=compact&theme=radical)](https://github.com/akbulutserhat/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
