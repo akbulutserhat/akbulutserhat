@@ -15,8 +15,6 @@ My name is Serhat Akbulut. I am Computer Engineering student from Turkey.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Github stats](https://github-readme-stats.vercel.app/api?username=akbulutserhat&count_private=false&theme=radical&show_icons=true&include_all_commits=true)&nbsp; 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbulutserhat&layout=compact&theme=radical)](https://github.com/akbulutserhat/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
