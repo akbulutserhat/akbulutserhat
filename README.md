@@ -7,8 +7,10 @@ My name is Serhat Akbulut. I am Computer Engineering student from Turkey.
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-141a20?style=flat&logo=vue&logoColor=success)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-141a20?style=flat&logo=angular&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141a20?style=flat&logo=nuxt.js&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141a20?style=flat&logo=Node.js&logoColor=75AC63)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=Mongodb&logoColor=75AC63)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
